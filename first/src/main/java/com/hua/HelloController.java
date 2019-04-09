@@ -10,6 +10,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
  * Created by hhq on 2019/4/5.
  */
 @Controller
+
+
+
 @EnableAutoConfiguration
 public class HelloController {
     @RequestMapping("/")
